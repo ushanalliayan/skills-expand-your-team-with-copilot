@@ -19,3 +19,10 @@ Explore the fantastic stories of the most interesting characters from Japanese M
 
 🗓 **Schedule:** Tuesdays at 7pm  
 👥 **Max Attendance:** 15 people  
+
+This PR adds Manga Maniacs club details to the website.
+Schedule: Tuesdays at 7 PM
+Max Attendance: 15 people
+Add Manga Maniacs club details
+
+

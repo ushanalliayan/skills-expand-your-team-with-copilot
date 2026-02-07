@@ -21,3 +21,4 @@ Consider the following when communicating with the staff:
 - Do not make command line tools.
 - Do not create a long single file application. Always use an easy-to-understand directory structure.
 - Only use HTML, CSS, Javascript, and Python. No other languages.
+- 

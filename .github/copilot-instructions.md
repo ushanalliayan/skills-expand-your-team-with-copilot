@@ -1,4 +1,3 @@
 ### Copilot Instructions
 
-Replace this text to customize Copilot..
-
+Replace this text to customize Copilot.

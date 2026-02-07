@@ -9,6 +9,7 @@ jobs:
         image: mongo:7
         ports:
           - 27017:27017
+          
     permissions:
       contents: read
     steps:
